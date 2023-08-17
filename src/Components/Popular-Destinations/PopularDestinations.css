@@ -1,0 +1,80 @@
+.populardestinations{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.plr-destination-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+    
+}
+.dstntn-sub-heading{
+    color: grey;
+    line-height: 3;
+    display: inline;
+}
+.taal-image-1,
+.taal-image-2{
+    width: 10rem;
+    height: 15rem;
+    border-radius: 20px;
+    margin-left:1rem ;
+    cursor: pointer;
+    
+}
+
+.taal-image-2{
+    margin-bottom: 4rem;}
+
+.taal-image-2:hover{
+    transform: scale(1.2);
+    transition: transform 0.5s ease
+}
+.taal-image-1:hover{
+    transform: scale(1.2);
+    transition: transform 0.5s ease
+}
+
+.dstntn-heading{
+   
+    font-size: 2rem;
+
+}
+.sub-head{
+  
+
+ 
+  font-size: 1.4rem;
+  
+  
+}
+.plr-content{
+    max-width: 28rem;
+    color: grey;
+    font-size: .9rem;
+}
+.volcano-full{
+    
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+   justify-content: center;
+   margin-top: 2rem;
+ 
+}
+.titles-lines{
+    margin-left: 1rem;
+   
+   
+    
+    
+}

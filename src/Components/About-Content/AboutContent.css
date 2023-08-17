@@ -1,0 +1,16 @@
+.aboutcontent{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.about-subheading{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Lilita One', cursive;
+
+}
+.about-note{
+    font-size: 0.9rem;
+    color: grey;
+
+}

@@ -1,0 +1,26 @@
+.aboutvideo{
+position: relative;
+}
+.video-about{
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: -3.5rem;
+}
+.about-headline{
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+.about{
+  color: azure;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 700;
+}
+
+
